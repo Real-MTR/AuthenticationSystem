@@ -10,7 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>Authentication-API</module>
-        <module>Authentication-Server</module>
+        <module>Authentication-App</module>
     </modules>
 
     <properties>
